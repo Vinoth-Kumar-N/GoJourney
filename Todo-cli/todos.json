@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "My first todo cli",
+        "Completed": true,
+        "CreatedAt": "2025-05-18T15:07:38.8581049+05:30",
+        "CompletedAt": "2025-05-18T15:15:11.7537751+05:30"
+    },
+    {
+        "Title": "Updated second",
+        "Completed": false,
+        "CreatedAt": "2025-05-18T15:08:07.7529893+05:30",
+        "CompletedAt": null
+    }
+]
