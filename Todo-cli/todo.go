@@ -6,7 +6,6 @@ import (
 	"os"
 	"strconv"
 	"time"
-
 	"github.com/aquasecurity/table"
 )
 
